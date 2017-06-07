@@ -5,7 +5,7 @@
  */
 package smembership;
 
-import con.connection;
+import properties.connection;
 import core.JSONArray;
 import core.JSONObject;
 import java.io.IOException;

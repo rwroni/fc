@@ -1,4 +1,4 @@
-package con;
+package properties;
 
 
 import java.sql.Connection;

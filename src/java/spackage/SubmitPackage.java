@@ -6,7 +6,7 @@ package spackage;
  * and open the template in the editor.
  */
 
-import con.connection;
+import properties.connection;
 import core.JSONObject;
 import java.io.IOException;
 import java.io.PrintWriter;
